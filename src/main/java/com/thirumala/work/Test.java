@@ -4,5 +4,6 @@ public class Test {
 
 	public void sayHello() {
 		System.out.println("Hello to the application.");
+		System.out.println("Hello to  all user of the application.");
 	}
 }
